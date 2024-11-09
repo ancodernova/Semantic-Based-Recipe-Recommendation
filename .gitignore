@@ -1,0 +1,13 @@
+# Ignore datasets and models
+data/
+models/
+*.h5
+*.pkl
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+
+# Ignore virtual environment files
+venv/

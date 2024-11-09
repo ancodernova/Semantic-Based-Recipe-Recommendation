@@ -1,6 +1,3 @@
-Here's an updated `README.md` including the tech stack used in the project.
-
----
 
 # Recipe Recommendation System
 

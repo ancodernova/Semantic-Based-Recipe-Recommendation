@@ -137,6 +137,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 - **Sentence-BERT** from [Hugging Face](https://huggingface.co/sentence-transformers) for the embeddings.
 - **FAISS** by Facebook AI for efficient similarity search.
 
----
 
-This README includes all the necessary information about the tech stack, project structure, usage, evaluation, and troubleshooting for the recipe recommendation system.
